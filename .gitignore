@@ -1,3 +1,8 @@
 README.md
 out
 .idea
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/ds_algo.iml
+.idea/.gitignore
